@@ -1,0 +1,2 @@
+# Supervised-Unsupervised-Algorithms
+Project in which I used supervised: k nearest neighbor and decisional tree and unsupervised: k-means and DBSCAN. For the supervised part I tried to predict player roles in football based on their stats and achieved around 90% accuracy. For the unsupervised I tried to form clusters of players, again based on their stats, and each cluster to define a main role in a football team. More details of the code on GitHub. Made in python.
